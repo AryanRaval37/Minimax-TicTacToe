@@ -3,7 +3,7 @@
 ## Overview
 This was a quick half day work of implementing the MiniMax Algorithm to solve TicTacToe with a bonus of a very classy object oriented code structure.
 
-> Except for humanPlayer.py, every single other character of code is written by me!
+> Except for humanPlayer.py, every single other character of code is written by me! I couldn't be bothered to make the UI, so claude did the job for me...
 
 ### Gameplay Preview
 <div align="center">
