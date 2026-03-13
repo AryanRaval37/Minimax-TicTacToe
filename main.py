@@ -1,7 +1,7 @@
 from engine import Engine
 from players.randomPlayer import randomPlayer
 from players.humanPlayer import HumanPlayer
-from players.minimax import minimaxPlayer
+from players.minimaxAlphabeta import minimaxPlayer
 
 human  = HumanPlayer(player='O')
 ai     = minimaxPlayer(player='X')
